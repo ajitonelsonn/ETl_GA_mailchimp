@@ -28,6 +28,8 @@ GA_PROPERTY_ID=properties/123456789
 
 **Note**: Add `properties/` before your numeric ID.
 
+For more visit [https://developers.google.com/analytics/devguides/reporting/data/v1/property-id](https://developers.google.com/analytics/devguides/reporting/data/v1/property-id)
+
 ---
 
 ## Part 2: Create Service Account Credentials
