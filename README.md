@@ -89,7 +89,7 @@ A Python-based ETL (Extract, Transform, Load) pipeline that automatically extrac
 
 ### Google Analytics 4
 
-See [Google Analytics Setup Guide](./Google%20Analytics%20Setup%20Guide.md) for detailed instructions on:
+See [Google Analytics Setup Guide](./ga_etl/Google_Analytics%20Setup_Guide.md) for detailed instructions on:
 
 - Creating service account credentials
 - Getting your Property ID
@@ -97,7 +97,7 @@ See [Google Analytics Setup Guide](./Google%20Analytics%20Setup%20Guide.md) for 
 
 ### Mailchimp
 
-See [Mailchimp API Setup Guide](./Mailchimp%20API%20Setup%20Guide.md) for instructions on:
+See [Mailchimp API Setup Guide](./Mailchimp_ETL_Pipe/MailchimpAPI_Setup_Guide.md) for instructions on:
 
 - Generating API keys
 - Finding your server prefix
