@@ -2,3 +2,7 @@ Mailchimp_ETL_Pipe/output
 
 Mailchimp_ETL_Pipe/.env
 myenv
+
+ga_etl/credentials
+ga_etl/.env
+ga_etl/output
