@@ -310,5 +310,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Review the example usage in the code
 
 ---
-
-**Made with ❤️ for data analysts and marketers who need clean, accessible data.**
